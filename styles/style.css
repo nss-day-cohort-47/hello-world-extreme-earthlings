@@ -1,0 +1,22 @@
+nav ul {
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+    margin: 5% 10%;
+    list-style-type: none;
+}
+
+nav ul li a{
+    color: black;
+    text-decoration: none;
+}
+
+nav ul li a:hover {
+color: crimson;
+text-decoration: underline;
+}
+
+.italy a {
+color: crimson;
+font-weight: bold
+}
