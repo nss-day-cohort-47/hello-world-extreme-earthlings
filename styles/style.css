@@ -7,6 +7,7 @@
         width: 33.33333%;
         text-align: center;
         border: black solid 1px;
+        margin-bottom: 10px;
 }
 .country_info ul {
         list-style-type: none ;
