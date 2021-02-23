@@ -26,7 +26,6 @@
 .japan a {
         color: crimson;
         font-weight: bold;
-<<<<<<< HEAD
 }
 
 .country_image img {
@@ -69,9 +68,6 @@ text-decoration: underline;
 color: crimson;
 font-weight: bold
 }
-=======
-    }
->>>>>>> 5701801ec82b52aa0fee287873eed69a98bfc40e
 header {
     display: flex;
     justify-content: space-between;
