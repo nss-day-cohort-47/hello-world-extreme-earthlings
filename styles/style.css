@@ -16,3 +16,48 @@ h1 {
     font-weight: bold;
     
 }
+nav ul {
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+    margin: 5% 10%;
+    list-style-type: none;
+}
+
+nav ul li a{
+    color: black;
+    text-decoration: none;
+}
+
+nav ul li a:hover {
+color: crimson;
+text-decoration: underline;
+}
+
+.italy a {
+color: crimson;
+font-weight: bold
+}
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 48px;
+    margin: 0;
+    padding: 0;
+
+}
+
+footer {
+    display: flex;
+    justify-content: flex-start;
+    border: dotted 2px black;
+    padding-left: 5px;
+
+}
+
+.indonesia a {
+    color: crimson;
+    font-weight: bold;
+} 
+
