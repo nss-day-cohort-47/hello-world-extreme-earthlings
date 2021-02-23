@@ -1,0 +1,26 @@
+.country_info {
+display: flex;
+justify-content: center;
+}
+
+.country_info div {
+    width: 33.33333%;
+    text-align: center;
+    border: black solid 1px;
+}
+
+.country_info ul {
+    list-style-type: none ;
+    padding: 0%;
+}
+
+.country_info a {
+    color: black;
+    text-decoration: none;
+}
+
+.country_info a:hover {
+    color: crimson;
+    text-decoration: underline;
+}
+
