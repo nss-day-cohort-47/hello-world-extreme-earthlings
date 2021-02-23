@@ -1,0 +1,18 @@
+.country_image img {
+    width: 100%;
+    height: auto;
+    display: flex;
+    align-items: stretch;
+   
+}
+
+h1 {
+    text-align: center;
+    font-size: 4em;
+
+}
+.New_Zealand a {
+    color: crimson;
+    font-weight: bold;
+    
+}
