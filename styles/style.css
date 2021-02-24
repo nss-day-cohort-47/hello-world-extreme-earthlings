@@ -33,8 +33,7 @@
     width: 100%;
     max-height: auto;
     display: flex;
-    align-items: stretch;
-   
+    align-items: stretch; 
 }
 
 h1 {
@@ -70,22 +69,32 @@ text-decoration: underline;
 color: crimson;
 font-weight: bold
 }
+
+/* -----------Dudley---------------------- */
+
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #fff;
+}
+
 header {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    font-size: 2vw;
-    margin: 0;
-    padding: 0;
-
+    font-family: 'Fredoka One', cursive;
+    background-color: #4098bb;
 }
+
 
 footer {
     display: flex;
     justify-content: flex-start;
-    border: dotted 2px black;
-    padding-left: 5px;
-
+    background-color: #0b1940;
+    padding: 5px 5px 5px 10px;
+    color: #7fcc48;
+    font-family: 'Press Start 2P', cursive;
+    
 }
 
 .indonesia a {
@@ -93,3 +102,24 @@ footer {
     font-weight: bold;
 } 
 
+header img {
+    width: 200px;
+    margin-left: 20px;
+}
+
+.header_extreme {
+    display: flex;
+    justify-content: center; 
+    color: #7fcc48; 
+    font-family: 'Press Start 2P', cursive;
+    font-size: 2.31vw;
+}
+
+.header_travel {
+    display: flex;
+    justify-content: center; 
+    color: #0b1940;
+    font-size: 6vw;
+}
+
+/*--------------------------Dudley--------------------*/ 
