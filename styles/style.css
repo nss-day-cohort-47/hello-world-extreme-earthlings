@@ -46,6 +46,12 @@ h1 {
     font-weight: bold;
     
 }
+
+/* begin nav bar  */
+nav {
+    background-color: #577F8E;
+    padding: .003% 0
+}
 nav ul {
     display: flex;
     justify-content: center;
@@ -55,19 +61,21 @@ nav ul {
 }
 
 nav ul li a{
-    color: black;
+    color: #fff;
     text-decoration: none;
     font-size: x-large;
+    font-family: 'Fredoka One', cursive;
 }
 
 nav ul li a:hover {
-color: crimson;
-text-decoration: underline;
+color: #0b1940;
+font-weight: bold;
 }
 
 .italy a {
-color: crimson;
-font-weight: bold
+color: #0b1940;
+font-weight: bold;
+text-decoration: underline;
 }
 
 /* -----------Dudley---------------------- */
