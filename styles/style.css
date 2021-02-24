@@ -75,7 +75,7 @@ font-weight: bold
 body {
     margin: 0;
     padding: 0;
-    background-color: #fff;
+    background-color: rgb(255, 255, 255);
 }
 
 header {
@@ -86,7 +86,7 @@ header {
     background-color: #4098bb;
 }
 
-
+/* changes the footer colors and font style to Google fonts */
 footer {
     display: flex;
     justify-content: flex-start;
@@ -96,7 +96,7 @@ footer {
     font-family: 'Press Start 2P', cursive;
     
 }
-
+/* sets the font color when the current page is Indonesia to crimson */
 .indonesia a {
     color: crimson;
     font-weight: bold;
@@ -106,7 +106,7 @@ header img {
     width: 200px;
     margin-left: 20px;
 }
-
+/* changes "extreme earthlings" font size and color in the header */
 .header_extreme {
     display: flex;
     justify-content: center; 
@@ -114,7 +114,7 @@ header img {
     font-family: 'Press Start 2P', cursive;
     font-size: 2.31vw;
 }
-
+/* changes "travel agency" font size and color in the header */
 .header_travel {
     display: flex;
     justify-content: center; 
@@ -122,4 +122,4 @@ header img {
     font-size: 6vw;
 }
 
-/*--------------------------Dudley--------------------*/ 
+/*--------------------------Dudley--------------------*/
