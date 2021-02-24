@@ -12,6 +12,7 @@
         text-align: center;
         border-radius: 25px;
         background-color: #4098bb;
+        margin-top: 10px;
         margin-bottom: 10px;
         margin-right: 20px;
 }
@@ -31,8 +32,9 @@
 }
 
 .japan a {
-        color: crimson;
-        font-weight: bold;
+    color: #0b1940;
+    font-weight: bold;
+    text-decoration: underline;
 }
 
 .country_image img {
@@ -45,11 +47,13 @@
 h1 {
     text-align: center;
     font-size: 4em;
+    color: #0b1940;
 
 }
 .New_Zealand a {
-    color: crimson;
+    color: #0b1940;
     font-weight: bold;
+    text-decoration: underline;
     
 }
 
@@ -122,8 +126,9 @@ footer {
 }
 
 .indonesia a {
-    color: crimson;
+    color: #0b1940;
     font-weight: bold;
+    text-decoration: underline;
 } 
 
 header img {
