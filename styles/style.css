@@ -40,6 +40,7 @@
 h1 {
     text-align: center;
     font-size: 4em;
+  
 
 }
 .New_Zealand a {
@@ -47,29 +48,39 @@ h1 {
     font-weight: bold;
     
 }
+/* begin nav bar css  */
+nav {
+    background-color: #E3F7D4;
+}
 nav ul {
     display: flex;
     justify-content: center;
     justify-content: space-around;
     margin: 5% 10%;
     list-style-type: none;
+    padding: 2% 0;
+   
 }
 
 nav ul li a{
-    color: black;
+    color: #347C98;
     text-decoration: none;
     font-size: x-large;
+    font-family: 'Fredoka One', cursive;
+
 }
 
 nav ul li a:hover {
-color: crimson;
-text-decoration: underline;
+font-weight: bolder;
 }
+/* end nav bar css  */
 
 .italy a {
 color: crimson;
 font-weight: bold
 }
+
+/* top of page with logo  */
 header {
     display: flex;
     justify-content: space-between;
