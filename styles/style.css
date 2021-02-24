@@ -123,3 +123,15 @@ header img {
 }
 
 /*--------------------------Dudley--------------------*/ 
+
+/* Golden */
+
+.country_info--blurb {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    background-color: #0b1940;
+    padding: 5px 5px 5px 10px;
+    color: #7fcc48;
+    
+/* Golden */
