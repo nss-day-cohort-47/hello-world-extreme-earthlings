@@ -2,12 +2,19 @@
     display: flex;
     justify-content: center;
 }
+
+.country_info h3 {
+    color: #0b1940;
+}
     
 .country_info div {
-        width: 33.33333%;
+        width: 30%;
         text-align: center;
-        border: black solid 1px;
+        border-radius: 25px;
+        background-color: #4098bb;
+        margin-top: 10px;
         margin-bottom: 10px;
+        margin-right: 20px;
 }
 .country_info ul {
         list-style-type: none ;
@@ -15,18 +22,19 @@
 }
     
 .country_info a {
-        color: black;
+        color: #7fcc48;
         text-decoration: none;
 }
     
 .country_info a:hover {
-        color: crimson;
+        color: #3C6FFE;
         text-decoration: underline;
 }
 
 .japan a {
-        color: crimson;
-        font-weight: bold;
+    color: #0b1940;
+    font-weight: bold;
+    text-decoration: underline;
 }
 
 .country_image img {
@@ -39,10 +47,11 @@
 h1 {
     text-align: center;
     font-size: 4em;
+    color: #0b1940;
 
 }
 .New_Zealand a {
-    color:#0b1940;
+    color: #0b1940;
     font-weight: bold;
     text-decoration: underline;
     
@@ -80,6 +89,16 @@ text-decoration: underline;
 }
 
 /* -----------Dudley---------------------- */
+
+
+/*
+#fff white
+#4098bb blue green
+#3C6FFE light blue
+#0b1940 dark blue
+#7fcc48 light green
+*/
+
 
 body {
     margin: 0;
