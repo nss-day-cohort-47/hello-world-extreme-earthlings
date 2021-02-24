@@ -106,8 +106,9 @@ footer {
 }
 
 .indonesia a {
-    color: crimson;
+    color: #0b1940;
     font-weight: bold;
+    text-decoration: underline;
 } 
 
 header img {
